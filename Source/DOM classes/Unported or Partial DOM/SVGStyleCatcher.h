@@ -8,6 +8,7 @@
 
 #ifndef StyleTouch_SVGStyelCatcher_h
 #define StyleTouch_SVGStyelCatcher_h
+#import "SVGKDefine.h"
 
 @class SVGElement;
 
